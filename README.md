@@ -3,6 +3,7 @@
 ## Overview
 
 ## Technology Involved
+HTML, CSS, JavaScript, Leaflet, MapBox
 
 ## Results
 
